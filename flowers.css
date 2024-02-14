@@ -1,0 +1,9 @@
+.formatted-text {
+    color: #333; /* Text color */
+    font-size: 16px; /* Text size */
+    margin: 10px 0; /* Spacing above and below the text */
+    padding: 5px; /* Padding inside the text block */
+    border: 1px solid #ddd; /* Border around the text */
+    text-align: center; /* Center the text */
+    /* Add more styles as needed */
+}
